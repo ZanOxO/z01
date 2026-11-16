@@ -1,0 +1,6 @@
+{
+  "name": "PixelEnhance AI",
+  "description": "AI Image Upscaler & Detail Restoration Studio powered by open-source ESRGAN neural networks, tiled memory-safe inference, and intelligent computer vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
